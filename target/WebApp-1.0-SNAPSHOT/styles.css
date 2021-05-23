@@ -1,0 +1,13 @@
+.clearBoth {
+  clear: both;
+}
+
+.inline-list {
+  display:inline-block;
+  margin-right:20px;
+}
+
+.inline-list-items{
+  display: inline;
+}
+

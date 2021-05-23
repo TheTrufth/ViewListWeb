@@ -1,0 +1,37 @@
+{
+  "For saturday": {
+    "Shopping list": {
+      "i1": " Eggs ; http://bit.ly/3eSSTaw ; http://bit.ly/3oxA2oF",
+      "i2": " Coffee Powder ; http://bit.ly/3yjcZ59 ; http://bit.ly/3yjcZ59",
+      "i3": " Cocoa Powder ; http://bit.ly/3tRkmh0 ; http://bit.ly/2SQqmcR",
+      "i4": " Milkybar ; http://bit.ly/3wbH6Kc ; http://bit.ly/3fl6JRO",
+      "For the kids": {
+        "i1": " NotePad ; http://www.notepad.com ; http:///img/src/notepad.jpeg"
+      }
+    },
+    "i1": "  Do the laundry",
+    "i2": "  Wash the car"
+  },
+  "For Sunday": {
+    "i1": "  Meet with Keyur",
+    "i2": "  Meet with Gab",
+    "Games to download": {
+      "i1": " League Of Legends ; http://euw.leagueoflegends.com/en ; https://cdn1.dotesports.com/wp-content/uploads/2019/09/12195522/league-of-legends.jpg",
+      "i2": " World Of Warcraft ; https://worldofwarcraft.com/en-gb/ ; https://upload.wikimedia.org/wikipedia/uk/9/9d/World_of_Warcraft_Cover.jpg",
+      "i3": " Watch Dogs Legion ; https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiyxojywd7wAhVJ4OAKHVetAsEQFjAAegQIAxAD&url=https%3A%2F%2Fwww.ubisoft.com%2Fen-gb%2Fgame%2Fwatch-dogs%2Flegion&usg=AOvVaw01K9CMX9dMLXBPyLfuzoMM ; https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Watch_Dogs_Legion_cover_art.webp/283px-Watch_Dogs_Legion_cover_art.webp.png",
+      "i4": " Grand Theft Auto V ; https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjKj8yIwt7wAhUKahQKHfK8DoQQFjAAegQIAxAD&url=https%3A%2F%2Fwww.rockstargames.com%2FV%2F&usg=AOvVaw2AWEWeaqprtaZr4C_5LX1D ; https://upload.wikimedia.org/wikipedia/en/a/a5/Grand_Theft_Auto_V.png",
+      "i5": " Grand Theft Auto IV ; https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiWq7qPwt7wAhV17eAKHUjODdMQFjAAegQIAxAD&url=https%3A%2F%2Fwww.rockstargames.com%2Fgames%2FIV&usg=AOvVaw0rZyBMHRsZaHaXMS_WcghT ; https://gamespcdownload.com/wp-content/uploads/2019/03/GTA-IV-download.png",
+      "i6": " Grand Theft Auto San Andreas ; https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjXztfCwt7wAhVD8uAKHT9iD4UQFjAAegQIBRAD&url=https%3A%2F%2Fwww.rockstargames.com%2Fgames%2Fsanandreas&usg=AOvVaw2l80EyW1lfP368w8Zz8rJ9 ; https://upload.wikimedia.org/wikipedia/en/c/c4/GTASABOX.jpg"
+    }
+  },
+  "Homework/CW Due": {
+    "i1": "  OOP CW3",
+    "i2": "  POP CW3"
+  },
+  "FINISHED TASKS": {
+    "i1": "  TOC Paper",
+    "i2": "  Compilers Paper",
+    "i3": "  Discrete Maths Paper"
+  },
+  "i1": "  Go sleep for 48 hours"
+}

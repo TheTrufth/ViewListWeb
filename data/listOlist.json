@@ -1,0 +1,29 @@
+{
+  "For saturday": {
+    "Shopping list": {
+      "i1":"Eggs ; bit.ly/3eSSTaw ; bit.ly/3oxA2oF",
+      "i2":"Coffee Powder ; bit.ly/3yjcZ59 ; bit.ly/3yjcZ59",
+      "i3":"Cocoa Powder ; bit.ly/3tRkmh0 ; bit.ly/2SQqmcR",
+      "i4":"Milkybar ; bit.ly/3wbH6Kc ; bit.ly/3fl6JRO",
+      "For the kids": {
+        "i1":"NotePad ; www.notepad.com ; /img/src/notepad.jpeg"
+      }
+    },
+    "i2": "Do the laundry",
+    "i3": "Wash the car"
+  },
+  "For Sunday": {
+    "i1": "Meet with Keyur",
+    "i2": "Meet with Gab"
+  },
+  "Homework/CW Due": {
+    "i1": "OOP CW3",
+    "i2": "POP CW3"
+  },
+  "FINISHED TASKS": {
+    "i1": "TOC Paper",
+    "i2": "Compilers Paper",
+    "i3": "Discrete Maths Paper"
+  },
+  "i1": "Go sleep for 48 hours"
+}
